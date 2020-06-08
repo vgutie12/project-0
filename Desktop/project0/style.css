@@ -1,0 +1,55 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+
+
+.img-maxresdefault {
+  width: 400px;
+}
+
+.img-disney {
+  width: 400px;
+}
+
+.img-newyork {
+  width: 400px;
+}
+
+.img-hike {
+  width: 400px;
+}
+
+.img-southkorea {
+  width: 400px;
+}
+
+
+}
+
+.img-hike {
+  width: 400px;
+}
+
+.img-life {
+  width: 400px;
+}
+
+
+.ol {
+  text-align: center;
+  list-style-position: inside;
+}
+
+
+.ul {
+  text-align: center;
+  list-style-position: inside;
+}
